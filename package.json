@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ValchanOficial/FullCycleDesafioPipelineCISonarCloud.git"
+    "url": "git+https://github.com/eliasferreir/FullCycleDesafioPipelineCISonarCloud.git"
   },
   "keywords": [],
   "author": "Valéria Padilha de Vargas",
@@ -19,9 +19,9 @@
     "node": ">=19.0.0"
   },
   "bugs": {
-    "url": "https://github.com/ValchanOficial/FullCycleDesafioPipelineCISonarCloud/issues"
+    "url": "https://github.com/eliaslferreir/FullCycleDesafioPipelineCISonarCloud/issues"
   },
-  "homepage": "https://github.com/ValchanOficial/FullCycleDesafioPipelineCISonarCloud#readme",
+  "homepage": "https://github.com/liaslferreir/FullCycleDesafioPipelineCISonarCloud#readme",
   "dependencies": {
     "jest": "^29.5.0"
   },
